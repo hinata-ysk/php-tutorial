@@ -1,2 +1,2 @@
-# Laravel-tutorial
-Laravel tutorial
+# php-tutorial
+php tutorial
